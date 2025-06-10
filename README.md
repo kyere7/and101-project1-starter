@@ -7,7 +7,11 @@
 1. [Wireframes](#Wireframes)
 
 ## Overview
+![Animation](https://github.com/user-attachments/assets/40be9eac-8059-4cfa-8e76-0a883daab376)
+
 - Cloning the project 1 repo and learning how to make changes to it by adding a description and changing the profile image.
+![Screenshot_20250609_194411](https://github.com/user-attachments/assets/f419c3c3-5d27-4d12-83d7-692eaec5cc45)
+
 ### Description
 The App basically displays my profile and interests.
 
